@@ -1,7 +1,9 @@
 I’m @DaddyWarcrimes: aspiring programmer, woodworking hobbiest, father, and veteran.
 
 -How to reach me:
+
 --https://www.daddywarcrimes.com
+
 --https://twitch.tv.daddy_warcrimes
 
 <!---
