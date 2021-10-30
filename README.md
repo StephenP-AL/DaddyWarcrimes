@@ -4,7 +4,7 @@ I’m @DaddyWarcrimes: aspiring programmer, woodworking hobbiest, father, and ve
 
 --https://www.daddywarcrimes.com
 
---https://twitch.tv.daddy_warcrimes
+--https://twitch.tv/daddy_warcrimes
 
 <!---
 DaddyWarcrimes/DaddyWarcrimes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
